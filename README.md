@@ -1,1 +1,1 @@
-# sql_project
+# Airline Project - SQL
